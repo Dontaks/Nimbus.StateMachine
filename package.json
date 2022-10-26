@@ -1,0 +1,7 @@
+{
+  "name": "com.savvy.example",
+  "version": "0.0.1",
+  "displayName": "Test Package",
+  "description": "This is a test package",
+  "unity": "2021.1"
+}
